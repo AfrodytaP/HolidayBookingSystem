@@ -1,0 +1,7 @@
+1,Ben,Johnson,25,Male,36,4,Approved
+2,Jane,Brown,45,Female,30,4,Approved
+3,Tom,Smith,28,Male,19,0,Not Requested
+4,Hanna,Diggs,43,Female,60,0,Not Requested
+5,Ann,King,35,Female,32,8,Approved
+6,Sam,Clark,45,Male,20,0,Not Requested
+7,Jack,Watt,46,Male,28,0,Not Requested
